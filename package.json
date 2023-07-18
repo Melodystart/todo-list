@@ -24,9 +24,10 @@
     "mongoose": "^5.13.20",
     "node": "^20.4.0",
     "passport": "^0.6.0",
+    "passport-facebook": "^3.0.0",
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
-    "dotenv": "^16.0.2"
+    "dotenv": "^16.3.1"
   }
 }
